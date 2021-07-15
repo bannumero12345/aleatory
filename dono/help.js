@@ -27,15 +27,24 @@ return `
 │♢➛${prefix}fsticker
 │♢➛${prefix}toimg 
 │♢➛${prefix}togif 
-│♢➛${prefix}gtts 
-│♢➛${prefix}wait 
+│♢➛${prefix}gtts pt (txt)
 │♢➛${prefix}tomp3 
 │♢➛${prefix}ping 
-│♢➛${prefix}destrava 
-│♢➛${prefix}play 
+│♢➛${prefix}play  (oq qr)
 │♢➛${prefix}gimage 
 │♢➛${prefix}rename 
 │♢➛${prefix}wallpaper
+│♢➛${prefix}meme 
+│♢➛${prefix}frases
+│
+└──────────────
+│   「 GIF (TXT) 」
+│
+│♧➛${prefix}colorful (txt)
+│♧➛${prefix}glowing (txt)
+│♧➛${prefix}bold (txt)
+│♧➛${prefix}cold (txt)
+│♧➛${prefix}army (txt)
 │
 └──────────────
 │ 「 CRIAR QR/ETC. 」
@@ -84,7 +93,11 @@ return `
 └──────────────
 │ 「 FOTO DE ANIMAIS 」
 │ 
+│♡➛${prefix}cachorro
+│♡➛${prefix}passaro
 │♡➛${prefix}lagarto
+│♡➛${prefix}raposa
+│♡➛${prefix}koala
 │♡➛${prefix}ganso
 │♡➛${prefix}gato
 │ 
@@ -97,15 +110,17 @@ return `
 │♡➛${prefix}bonecas
 │♡➛${prefix}ngif
 │♡➛${prefix}carinho
+│♡➛${prefix}beijo
 │ 
 └──────────────
 │ 「 INFORMAÇÕES/PESQUISA 」
 │
+│❖➛${prefix}mercadolivre (oq qr)
+│❖➛${prefix}happymod (apk nome)
+│❖➛${prefix}playstore (nome)
 │❖➛${prefix}covidglobal
 │❖➛${prefix}covid19
 │❖➛${prefix}wikipedia 
-│❖➛${prefix}happymod (apk nome)
-│❖➛${prefix}playstore (nome)
 │
 └──────────────
 │「 ATTPS/TTPS (TXT) 」

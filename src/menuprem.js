@@ -6,8 +6,12 @@ return `
 ║╠ ${prefix}delete (Bot deleta (algo) )
 ║╠ ${prefix}destrava
 ║╠ ${prefix}premiumlist
-║╠ ${prefix}ddd exemplo: 81 
 ║╠ ${prefix}semoji exemplo: 😉
+║╠ ${prefix}ddd exemplo: 81 
+║╠ ${prefix}gcnh
+║╠ ${prefix}gcpf
+║╠ ${prefix}gcep
+║╠ ${prefix}gcnpj
 ║╚▸
 ╚════ ◤ *${NamaBot}* ◢
 `

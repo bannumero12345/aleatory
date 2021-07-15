@@ -2,7 +2,7 @@ const adms = (prefix) => {
 	return `   
 ╔══ ◤ *𝐌𝐄𝐍𝐔 𝐃𝐄 𝑨𝑫𝑴𝑺* ◢
 ║╔▸ 
-║╠ ${prefix}ban (mencionar mensagem para rmv) 
+║╠ ${prefix}ban (mencionar mensg pra rmv)
 ║╠ ${prefix}kick [@] (vai remover o cara)
 ║╠ ${prefix}add [@] (para adicionar alguém)
 ║╠ ${prefix}linkgp
