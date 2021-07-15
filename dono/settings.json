@@ -1,14 +1,13 @@
 {
 	"prefix": "!",
-	"ownerNumber": "558198923680",
-	"NumberOwner": "55 81 9892-3680", 
-	"ZeksKey": "wvgzJ3OrMezN3OaNzODcfLbIDwW",
+	"ownerNumber": "SEU NUMERO JUNTO",
+	"NumberOwner": "SEU NUMERO SEPARADO", 
+	"ZeksKey": "SUA KEY",
 	"instagram": "OFF",
-	"ytb": "ALEATORY CONTEÚDOS",
-	"NamaOwner": "MR-JOSI",
-	"NamaBot": "𝐀𝐋𝐄𝐀𝐓𝐎𝐑𝐘 𝐁𝐎𝐓",
+	"ytb": "OFF",
+	"NamaOwner": "SEU NOME",
+	"NamaBot": "NOME DO BOT",
 	"ApiZeks": "apivinz",
-	"OFF": "ELE ESTÁ DORMINDO, QUANDO ELE VOLTAR, ELE AVISA",
 	"memberlimit": "1",
 	"limitawal": "9999"
 }
