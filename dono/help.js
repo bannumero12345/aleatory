@@ -107,7 +107,6 @@ return `
 │ 
 │♡➛${prefix}walpaperanime
 │♡➛${prefix}avatarAnime
-│♡➛${prefix}fotosAnime
 │♡➛${prefix}bonecas
 │♡➛${prefix}ngif
 │♡➛${prefix}carinho
