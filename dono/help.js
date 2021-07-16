@@ -61,6 +61,7 @@ return `
 │♡➛${prefix}gado
 │♡➛${prefix}amgolpe
 │♡➛${prefix}tapa 
+│♡➛${prefix}chute
 │♡➛${prefix}rankgay
 │♡➛${prefix}rankpau
 │♡➛${prefix}rankotakus
@@ -123,7 +124,7 @@ return `
 │❖➛${prefix}wikipedia 
 │
 └──────────────
-│「 ATTPS/TTPS (TXT) 」
+│「 ATTPS/TTPS/TTMS 」
 │
 │❖➛${prefix}attp
 │❖➛${prefix}attp1
@@ -137,7 +138,12 @@ return `
 │❖➛${prefix}ttp3
 │❖➛${prefix}ttp4
 │❖➛${prefix}ttp5
-│❖➛${prefix}ttp6
+│❖➛${prefix}ttp6  
+│❖➛${prefix}ttm 
+│❖➛${prefix}ttm2 
+│❖➛${prefix}ttm3 
+│❖➛${prefix}ttm4 
+│❖➛${prefix}ttm5
 │
 └──────────────
 │「 PESQUISAS/BAIXAR 」
@@ -148,9 +154,12 @@ return `
 │❖➛${prefix}ytmp3 (url do search) 
 │❖➛${prefix}play (Música q c qr)
 │❖➛${prefix}play2 (Música q c qr)
+│❖➛${prefix}play3 (Música q c qr)
 └──────────────
 │「 LOGOS/CRIAR (TXT) 」
 │
+│❖➛${prefix}papel (txt)
+│❖➛${prefix}madeira (txt)
 │❖➛${prefix}grafity (txt) 
 │❖➛${prefix}thunder (txt)
 │❖➛${prefix}toxic (txt)
