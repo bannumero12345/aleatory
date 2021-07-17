@@ -1,7 +1,7 @@
 const help = (prefix, pushname, getLevelingLevel, getLevelingXp, sender, time, patt, uangku) => { 
 return `
  ╭━━━━━━━━━━━━┈ ❋ཻུ۪۪⸙
-│ 「 INFORMAÇÕES 」
+│ 「 INFORMAÇÕES DONO 」
 │ Nick : ${NamaOwner} 
 │ YouTube :「 ${ytb} 」
 │ Bateria : ${battre}% 
@@ -71,13 +71,6 @@ return `
 │♡➛${prefix}ranknazista
 │♡➛${prefix}gerarnick 
 │ 
-└──────────────
-│ 「 ALTERADOR DE VIDEO 」
-│
-│♢➛${prefix}fastvid 
-│♢➛${prefix}slowvid 
-│♢➛${prefix}reversevid 
-│
 └──────────────
 │ 「 ALTERADOR DE AUDIO 」
 │
@@ -180,7 +173,6 @@ return `
 │❖➛${prefix}gradient (txt)
 │❖➛${prefix}googlelogo (txt)
 │❖➛${prefix}rainbow (txt)
-│❖➛${prefix}neonsky (txt)
 │❖➛${prefix}neonye (txt)
 │❖➛${prefix}shine (txt)
 │❖➛${prefix}grass (txt)
@@ -227,6 +219,7 @@ return `
 }
 
 exports.help = help
+
 
 
 
