@@ -114,6 +114,7 @@ return `
 │❖➛${prefix}covidglobal
 │❖➛${prefix}covid19
 │❖➛${prefix}wikipedia 
+│❖➛${prefix}print (url)
 │
 └──────────────
 │「 ATTPS/TTPS/TTMS 」
