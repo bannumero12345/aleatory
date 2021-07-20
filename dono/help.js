@@ -22,6 +22,7 @@ return `
 └──────────────
 │ 「 COMANDOS BÁSICOS 」
 │ 
+│♢➛${prefix}listonline
 │♢➛${prefix}bot
 │♢➛${prefix}sticker 
 │♢➛${prefix}fsticker
@@ -55,6 +56,8 @@ return `
 └──────────────
 │ 「 BRINCADEIRAS 」
 │
+│♡➛${prefix}gostoso
+│♡➛${prefix}gostosa
 │♡➛${prefix}gay
 │♡➛${prefix}casal
 │♡➛${prefix}corno
@@ -100,10 +103,12 @@ return `
 │ 
 │♡➛${prefix}walpaperanime
 │♡➛${prefix}avatarAnime
+│♡➛${prefix}nekonime
 │♡➛${prefix}bonecas
 │♡➛${prefix}ngif
 │♡➛${prefix}carinho
 │♡➛${prefix}beijo
+│♡➛${prefix}cocegas
 │ 
 └──────────────
 │ 「 INFORMAÇÕES/PESQUISA 」
@@ -114,7 +119,7 @@ return `
 │❖➛${prefix}covidglobal
 │❖➛${prefix}covid19
 │❖➛${prefix}wikipedia 
-│❖➛${prefix}print (url)
+│❖➛${prefix}print (url -https://)
 │
 └──────────────
 │「 ATTPS/TTPS/TTMS 」
@@ -151,6 +156,8 @@ return `
 └──────────────
 │「 LOGOS/CRIAR (TXT) 」
 │
+│❖➛${prefix}placa (txt)
+│❖➛${prefix}copo (txt)
 │❖➛${prefix}papel (txt)
 │❖➛${prefix}madeira (txt)
 │❖➛${prefix}grafity (txt) 
@@ -220,6 +227,7 @@ return `
 }
 
 exports.help = help
+
 
 
 

@@ -2,14 +2,16 @@
 	"prefix": "!",
 	"ownerNumber": "SEU NUMERO JUNTO",
 	"NumberOwner": "SEU NUMERO SEPARADO", 
-	"ZeksKey": "SUA KEY",
+	"ZeksKey": "key do site zeks.xyz/register",
+ "printkey": "Key Do Site apiflash.com/",
 	"instagram": "OFF",
 	"ytb": "OFF",
 	"NamaOwner": "SEU NOME",
 	"NamaBot": "NOME DO BOT",
 	"ApiZeks": "apivinz",
 	"memberlimit": "1",
-	"limitawal": "9999",
-	"printkey": "Key Do Site apiflash.com/"
+	"limitawal": "9999"
 }
+
+
 
